@@ -74,22 +74,3 @@ input {
   color: black;
 }
 
-@media (min-width: 1000px){
-  #box {
-    height: 810px;
-    width: 600px;
-  }
-  input {
-    height: 90px;
-    margin-top: 6px;
-    font-size: 70px;
-  }
-  button {
-    height: 140px;
-    width: 140px;
-    font-size: 70px;
-  }
-  #equal {
-    width: 281px;
-  }
-}
