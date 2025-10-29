@@ -1,4 +1,7 @@
-# Run code: https://amreen-2007.github.io/calculator-app/
+Mykkum_좁....
+simple calculator created by Amreen Hashmi.
+
+# live demo: https://amreen-2007.github.io/calculator-app/
 # calculator-app
 A web-based calculator that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 # 🧮 Calculator App
